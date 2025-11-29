@@ -1,0 +1,7 @@
+{
+  "name": "LinePay Map Finder",
+  "description": "A location-based app to find nearby food and drink spots that accept LINE Pay, with filtering capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
